@@ -1,4 +1,8 @@
 ## Hi there 👋
+•	Transitioning professional with a strong background in financial securities and a focus on data science and analytics.
+•	Enrolled in MIT Applied Data Science Program for in-depth knowledge and practical skills.
+•	Proven ability to solve real-world business problems through data-driven decision-making.
+•	Adept at solving real-world business challenges through predictive analytics and automation.
 
 <!--
 **ZavionH3nd3rson/ZavionH3nd3rson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
