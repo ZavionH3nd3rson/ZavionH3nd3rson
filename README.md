@@ -1,9 +1,5 @@
 ## Hi there 👋
-•	Transitioning professional with a strong background in financial securities and a focus on data science and analytics.
-•	Enrolled in MIT Applied Data Science Program for in-depth knowledge and practical skills.
-•	Proven ability to solve real-world business problems through data-driven decision-making.
-•	Adept at solving real-world business challenges through predictive analytics and automation.
-
+Data Science & Financial Analytics Professional with a strong foundation in securities, risk assessment, and predictive modeling. Recently, completed the MIT Applied Data Science Program, gaining hands-on expertise in applying machine learning algorithms, automations, and predictive modeling to uncover actionable insights and drive strategic decision-making. Experienced in optimizing financial strategies, statistical modeling, and developing scalable analytics solutions to solve real-world business challenges. Adept at solving complex business problems, reducing inefficiencies, and improving forecasting accuracy through data-driven solutions and AI-powered automation. Passionate about integrating data science, AI, and financial analytics to enhance operational efficiency and maximize ROI.
 <!--
 **ZavionH3nd3rson/ZavionH3nd3rson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
